@@ -21,16 +21,16 @@
                    request type ( POST ) 
                    parameters - Token, tittle,body,author
 
-    e) Get single posts - http://127.0.0.1:8000/api/posts/<id>
+    e) Get single posts - http://127.0.0.1:8000/api/posts/id
                    request type ( GET ) 
                     parameters - Token
 
    
-    f) Update single posts - http://127.0.0.1:8000/api/posts/<id>
+    f) Update single posts - http://127.0.0.1:8000/api/posts/id
                    request type ( PUT ) 
                     parameters - Token, tittle,body,author
 
-    g) Deletes a single post - http://127.0.0.1:8000/api/posts/<id>
+    g) Deletes a single post - http://127.0.0.1:8000/api/posts/id
                    request type ( DELETE )
                     parameters - Token
 
